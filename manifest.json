@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "salesforce-chat",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "title": "Salesforce Chat",
   "description": "Salesforce Chat",
   "builders": {
